@@ -1,5 +1,13 @@
 # Changelog
 
+## [17.21.0](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-v17.20.0...arize-phoenix-v17.21.0) (2026-07-07)
+
+
+### Features
+
+* **agents:** end-to-end PXI turn tracing from browser to backend ([#14080](https://github.com/Arize-ai/phoenix/issues/14080)) ([80dda23](https://github.com/Arize-ai/phoenix/commit/80dda2385e6b382d6e50d081866e6f719235fd38))
+* session stats side panel for the sessions table ([#14007](https://github.com/Arize-ai/phoenix/issues/14007)) ([84d18bd](https://github.com/Arize-ai/phoenix/commit/84d18bd3bcca7c2186265e9b2beb0d3e159f0f22))
+
 ## [17.20.0](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-v17.19.0...arize-phoenix-v17.20.0) (2026-07-07)
 
 
